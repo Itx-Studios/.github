@@ -3,11 +3,11 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center">
-  <img src="https://github.com/Itx-Studios/hood-guesser/blob/main/ITX_dark_big_transparent.png?raw=true" width="20%" alt="DeepSeek-V3" />
+  <img src="https://github.com/Itx-Studios/hood-guesser/blob/main/ITX_dark_big_transparent.png?raw=true" width="20%" alt="ITX-Studios" />
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
-  <a href="https://www.deepseek.com/"><img alt="Homepage"
+  <a href="https://www.itx-studios.com/"><img alt="Homepage"
     src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/badge.svg?raw=true"/></a>
   <a href="https://chat.deepseek.com/"><img alt="Chat"
     src="https://img.shields.io/badge/🤖%20Chat-DeepSeek%20V3-536af5?color=536af5&logoColor=white"/></a>
