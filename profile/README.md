@@ -1,4 +1,4 @@
-[![Custom](https://img.shields.io/badge/Discord-join-blue)](https://discord.gg/AWzMttMEG3)
+[![Demo](https://img.shields.io/badge/Discord-blue?logo=discord&style=for-the-badge)](https://discord.gg/AWzMttMEG3)
     
 # Itx-Studios
 
