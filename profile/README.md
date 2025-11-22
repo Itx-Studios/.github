@@ -1,4 +1,8 @@
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Status](https://img.shields.io/badge/status-active-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-orange)
 
+    
 # Itx-Studios
 
 ---
