@@ -7,8 +7,8 @@
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
-  <a href="https://www.itx-studios.com/"><img alt="Homepage"
-    src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/badge.svg?raw=true"/></a>
+  [<a href="https://www.itx-studios.com/"><img alt="Homepage"
+    src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/badge.svg?raw=true"/></a>](https://img.shields.io/badge/Website%2C%20Red?style=plastic&link=https%3A%2F%2Fitx-studios.com)
   <a href="https://chat.deepseek.com/"><img alt="Chat"
     src="https://img.shields.io/badge/🤖%20Chat-DeepSeek%20V3-536af5?color=536af5&logoColor=white"/></a>
   <a href="https://huggingface.co/deepseek-ai"><img alt="Hugging Face"
