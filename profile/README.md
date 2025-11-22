@@ -3,7 +3,7 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center">
-  <img src="https://github.com/Itx-Studios/hood-guesser/blob/main/ITX_dark_big_transparent.png?raw=true" width="60%" alt="DeepSeek-V3" />
+  <img src="https://github.com/Itx-Studios/hood-guesser/blob/main/ITX_dark_big_transparent.png?raw=true" width="20%" alt="DeepSeek-V3" />
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
