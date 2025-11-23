@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="450mm"
+   height="150mm"
+   viewBox="0 0 450 150"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="428.42139"
+       y="182.21819"
+       width="1193.4596"
+       height="218.38364"
+       id="rect1" />
+  </defs>
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.33593894,0,0,0.43021166,-59.515655,-44.258288)"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:191.199px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#ffffff;fill-opacity:1"><tspan
+         x="428.42188"
+         y="355.70956"
+         id="tspan1">ITX STUDIOS</tspan></text>
+    <path
+       id="path1"
+       style="fill:#ffffff;stroke-width:0.264583"
+       d="M 49.690834,22.152613 77.509972,34.184125 80.999936,64.291962 56.670789,82.368268 28.851635,70.33677 25.361654,40.228939 Z" />
+    <path
+       id="path1-5"
+       style="fill:#ffffff;stroke-width:0.264583"
+       d="M 28.913923,70.490434 56.733065,82.521944 60.223027,112.62977 35.893875,130.70608 8.0747267,118.67458 4.5847447,88.56676 Z" />
+  </g>
+</svg>
