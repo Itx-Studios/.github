@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/Itx-Studios/.github/blob/main/assets/itx_wide_white.svg?raw=true" width="60%" alt="Itx Studios" />
+</div>
+<hr>
+
 [![Demo](https://img.shields.io/badge/Discord-grey?logo=discord&style=for-the-badge)](https://discord.gg/AWzMttMEG3)
 [![Demo](https://img.shields.io/badge/Website-blue?logo=internetarchive&style=for-the-badge)](https://itx-studios.com)
 [![Demo](https://img.shields.io/badge/Whatsapp-green?logo=whatsapp&style=for-the-badge)](https://whatsapp.com/channel/0029Va9erpfGOj9mxaNnZo3u)
