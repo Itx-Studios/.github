@@ -3,10 +3,20 @@
 </div>
 <hr>
 
-[![Demo](https://img.shields.io/badge/Discord-grey?logo=discord&style=for-the-badge)](https://discord.gg/AWzMttMEG3)
-[![Demo](https://img.shields.io/badge/Website-blue?logo=internetarchive&style=for-the-badge)](https://itx-studios.com)
-[![Demo](https://img.shields.io/badge/Whatsapp-green?logo=whatsapp&style=for-the-badge)](https://whatsapp.com/channel/0029Va9erpfGOj9mxaNnZo3u)
-[![Demo](https://img.shields.io/badge/Twitter-black?logo=X&style=for-the-badge)](https://X.com/itxstudio)
+<p align="center">
+  <a href="https://discord.gg/AWzMttMEG3">
+    <img src="https://img.shields.io/badge/Discord-grey?logo=discord&style=for-the-badge">
+  </a>
+  <a href="https://itx-studios.com">
+    <img src="https://img.shields.io/badge/Website-blue?logo=internetarchive&style=for-the-badge">
+  </a>
+  <a href="https://whatsapp.com/channel/0029Va9erpfGOj9mxaNnZo3u">
+    <img src="https://img.shields.io/badge/Whatsapp-green?logo=whatsapp&style=for-the-badge">
+  </a>
+  <a href="https://X.com/itxstudio">
+    <img src="https://img.shields.io/badge/Twitter-black?logo=X&style=for-the-badge">
+  </a>
+</p>
    
 # Itx-Studios
 
